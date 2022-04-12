@@ -25,7 +25,11 @@
 
 ## Sitemap of the project
 
+![Sitemap](https://user-images.githubusercontent.com/85451781/163056286-2673f4cc-0251-4672-bd8b-49bfbd8c49cf.png)
+
 ## Wireframe of Techium project
+
+![Wireframe](https://user-images.githubusercontent.com/85451781/163056259-9902c721-444f-4763-847f-ae4f611b5563.png)
 
 ## Tasks
 
@@ -65,6 +69,8 @@ Copy the content of 0-index.html into 1-index.html
 ### 2. The head - meta charset, viewport, title, description, favicons
 
 Copy the content of 1-index.html into 2-index.html
+
+![logoTechium](https://user-images.githubusercontent.com/85451781/163056388-6f0c6276-0010-44ec-a89d-3a01b09d746d.jpg)
 
 **Meta charset:**
 
@@ -781,6 +787,8 @@ Copy the content of 32-styleguide.html into 33-styleguide.html
     - in the section create a header, in the header add a level 2 heading with the text Table
     - after the header, create a table, reproduce in HTML the visual below
 
+![starwars](https://user-images.githubusercontent.com/85451781/163056576-3b5605f9-6707-40d9-b63e-aac33fc7e6b1.jpg)
+  
 The <th> tags containing Title, Director, Release Date should have a scope attribute set to col The <th> tags containing the names of the movies should have a scope attribute set to row
 
 **Due to previous task, does not have to pass W3C**
@@ -817,6 +825,8 @@ Copy the content of 33-styleguide.html into 34-styleguide.html
 - File: 34-styleguide.html
 
 ### 35. Replace text logo with image logo
+  
+![logoName](https://user-images.githubusercontent.com/85451781/163056673-72f318e1-c7b3-481f-8658-e2341eb4c900.png)
 
 Copy the content of 31-index.html into 35-index.html
 

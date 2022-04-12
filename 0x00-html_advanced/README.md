@@ -683,7 +683,7 @@ Copy the content of 26-styleguide.html into 28-styleguide.html
 
 - GitHub repository: holbertonschool-web_front_end
 - Directory: 0x00-html_advanced
-- File:\*\* 28-styleguide.html
+- File: 28-styleguide.html
 
 ### 29. Client quotes
 
@@ -788,7 +788,7 @@ Copy the content of 32-styleguide.html into 33-styleguide.html
     - after the header, create a table, reproduce in HTML the visual below
 
 ![starwars](https://user-images.githubusercontent.com/85451781/163056576-3b5605f9-6707-40d9-b63e-aac33fc7e6b1.jpg)
-  
+
 The <th> tags containing Title, Director, Release Date should have a scope attribute set to col The <th> tags containing the names of the movies should have a scope attribute set to row
 
 **Due to previous task, does not have to pass W3C**
@@ -818,14 +818,14 @@ Copy the content of 33-styleguide.html into 34-styleguide.html
 
 **Due to earlier task, does not have to pass W3C**
 
-- **Repo:**
+**Repo:**
 
 - GitHub repository: holbertonschool-web_front_end
 - Directory: 0x00-html_advanced
 - File: 34-styleguide.html
 
 ### 35. Replace text logo with image logo
-  
+
 ![logoName](https://user-images.githubusercontent.com/85451781/163056673-72f318e1-c7b3-481f-8658-e2341eb4c900.png)
 
 Copy the content of 31-index.html into 35-index.html

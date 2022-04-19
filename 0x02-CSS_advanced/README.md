@@ -23,13 +23,19 @@
 
 favicon.jpg
 
+![favicon](https://user-images.githubusercontent.com/85451781/164088992-fc9f44a8-ce20-434e-9cde-d4d8b2d23612.jpg)
+
 [download favicon.jpg](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220419%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220419T180819Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=c42b2ddd89f1eb1bacc26edc6e9bfab2dcca53b1196f54747cb3979c4d0c502f)
 
 logo-black.png
 
+![logo-black](https://user-images.githubusercontent.com/85451781/164089082-0e435cb5-a7ce-4fa4-8846-a7c8b7789320.png)
+
 [download logo-black.png](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220419%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220419T180819Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=ea7a5322762add8d4d57b23cd731b45c5b32b086d077995623aa3690bd245807)
 
 logo-white.png
+
+![logo-white](https://user-images.githubusercontent.com/85451781/164089131-6ccab9a2-5318-409c-8047-6a13b2b6142f.png)
 
 [download logo-white.png]()
 
@@ -404,7 +410,9 @@ You can save it in a index.html file and replace the
 
 by the right CSS file.
 
-End goal of the project
+## End goal of the project
+
+![goal](https://user-images.githubusercontent.com/85451781/164089286-2d97a177-4437-437b-9b2a-e4ae7427a04b.png)
 
 Important note: **details are important!** lowercase vs uppercase / wrong letter… be careful!
 

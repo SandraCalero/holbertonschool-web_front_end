@@ -241,8 +241,6 @@ To ensure we start on the same foot, use these files:
 
 **00-styles.css**
 
-Click to expand/hide file contents
-
 ```bash
 /* SUMMARY
     1. GLOBAL
@@ -934,7 +932,8 @@ After the Tag list styles, create a new comment
 
 **Final rendering**
 
-0-task
+<img width="1165" alt="0-task" src="https://user-images.githubusercontent.com/85451781/165819736-487f725d-6336-4f8c-abc4-49e25b6869d4.png">
+
 
 **Repo:**
 
@@ -967,7 +966,7 @@ After the Tag list styles, create a new comment
 
 **Final rendering** (same as previously because <legend> tags are hidden by default)
 
-1-task
+<img width="1040" alt="1-task" src="https://user-images.githubusercontent.com/85451781/165819786-0859d1cb-2d10-432f-96b8-070f74b4f55f.png">
 
 **Repo:**
 
@@ -1027,12 +1026,12 @@ After the Tag list styles, create a new comment
   - set padding to 0 0 .5rem
 
 **Final rendering**
-
-2-task
+  
+<img width="1021" alt="2-task" src="https://user-images.githubusercontent.com/85451781/165819843-e4b43d73-dc08-47d3-a173-b3b1558ce12c.png">
 
 **Final rendering with button in hover**
-
-2-2-task
+  
+<img width="943" alt="2-2-task" src="https://user-images.githubusercontent.com/85451781/165819852-47390b10-439b-4eec-89fa-80b90b91f671.png">
 
 **Repo:**
 
@@ -1122,12 +1121,12 @@ After the Tag list styles, create a new comment
 ```
 
 **Final rendering**
-
-3-task
+  
+<img width="792" alt="3-task" src="https://user-images.githubusercontent.com/85451781/165819952-4d47cee8-6c8e-40dd-8956-c37af062234b.png">
 
 **Final rendering when “Last name” field is focus**
-
-3-2-task
+  
+<img width="791" alt="3-2-task" src="https://user-images.githubusercontent.com/85451781/165819964-20e9cbc1-98a3-41c7-90d2-3465911bc735.png">
 
 **Repo:**
 
@@ -1216,8 +1215,8 @@ After the Tag list styles, create a new comment
   - Property: margin, Value: .4rem 0 0
 
 **Final rendering when “Last name” is focused**
-
-4-task
+  
+<img width="820" alt="4-task" src="https://user-images.githubusercontent.com/85451781/165820056-3a842964-f5ef-49fd-bf28-679f1b9524ca.png">
 
 **Repo:**
 
@@ -1302,7 +1301,7 @@ textarea:valid:not(:placeholder-shown) {
 
 **Final rendering of validation layout**
 
-5-task
+<img width="363" alt="5-task" src="https://user-images.githubusercontent.com/85451781/165820127-35fad670-9906-418e-b618-9faeae7b2d4c.png">
 
 **Repo:**
 
@@ -1391,16 +1390,16 @@ textarea:valid:not(:placeholder-shown) {
   - Property: margin, Value: 0 1rem
 
 **Final rendering of the search button**
-
-6-1-task
+ 
+<img width="413" alt="6-1-task" src="https://user-images.githubusercontent.com/85451781/165820207-d1bf3f6d-a64e-4b6c-bff0-4f7c8930313e.png">
 
 **Final rendering of the search focus**
 
-6-2-task
+<img width="514" alt="6-2-task" src="https://user-images.githubusercontent.com/85451781/165820220-a1903bfd-4463-43b6-bf94-7b7a99e3cdd8.png">
 
 **Final rendering of the search focus with text**
 
-6-3-task
+<img width="499" alt="6-3-task" src="https://user-images.githubusercontent.com/85451781/165820236-117a9c2c-3ccf-43ff-82a2-ec7b356a6478.png">
 
 **Repo:**
 

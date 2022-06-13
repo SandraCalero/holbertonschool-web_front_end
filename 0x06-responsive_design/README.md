@@ -12,6 +12,7 @@
 - CSS units that are used to make elements flexible
 
 ## Wireframe of the Techium project - mobile version
+
 ![wireframe](https://user-images.githubusercontent.com/85451781/173441533-3135bb10-ffda-4217-aabe-1d767ee5773d.png)
 
 ## Tasks
@@ -31,6 +32,7 @@ In your `01-styles.css` file
   - Update the `min-height` to `35vh`
 
 **Final rendering of the Hero section should look something like this**
+
 <img width="1391" alt="task_0" src="https://user-images.githubusercontent.com/85451781/173441636-9c538ea4-97b3-42e5-85ca-e3d28686faf0.png">
 
 **Repo:**
@@ -46,10 +48,11 @@ Using the previous file as the base, in your `02-styles.css` file update the `.c
 If you resize your browser, you should see that the content is resizing.
 
 **Wide screen:**
+
 <img width="1440" alt="task_1_wide" src="https://user-images.githubusercontent.com/85451781/173441791-f0e6875b-ad42-4267-8115-c670753eb231.png">
 
-
 **Narrow screen:**
+
 <img width="754" alt="task_1_narrow" src="https://user-images.githubusercontent.com/85451781/173441857-8a9e2424-9d68-4238-ab7e-e9b2c57733f2.png">
 
 **Repo:**
@@ -103,15 +106,16 @@ The `navbar` is not allowing the website to fit the window. We will temporarily 
 You should now be able to easily view the website on a device of any screen/window size. I guess you are surprised that was so easy?!
 
 **Rendering on wide screen**
+
 <img width="1346" alt="task_2_wide" src="https://user-images.githubusercontent.com/85451781/173441990-dcd35d37-dc59-4984-87dc-1884a24f09f1.png">
 
-
 **Rendering on screen with max-width: 767px**
+
 <img width="765" alt="task_2_maxwidth_767" src="https://user-images.githubusercontent.com/85451781/173442020-da5448c5-ced0-4bc3-9ee1-fe3638c1bbe9.png">
 
 **Rendering on screen with max-width: 767px, you can see the navbar is hidden**
-<img width="762" alt="task_2_maxwidth_767_2" src="https://user-images.githubusercontent.com/85451781/173442056-1c4ecedd-5f67-400f-9585-d68b7c9e3cd5.png">
 
+<img width="762" alt="task_2_maxwidth_767_2" src="https://user-images.githubusercontent.com/85451781/173442056-1c4ecedd-5f67-400f-9585-d68b7c9e3cd5.png">
 
 **Repo:**
 
@@ -198,8 +202,8 @@ Inside the `/* Navbar` section, and inside the `767px` media query
   - Property: `transition`, Value: `max-height .2s ease-out`
 
 **Rendering on screen with max-width: 767px, the check box is the input**
-<img width="764" alt="task_4" src="https://user-images.githubusercontent.com/85451781/173442333-9895cf79-7b34-4e09-a387-a9487a6cf53b.png">
 
+<img width="764" alt="task_4" src="https://user-images.githubusercontent.com/85451781/173442333-9895cf79-7b34-4e09-a387-a9487a6cf53b.png">
 
 **Repo:**
 
@@ -248,8 +252,8 @@ Using the previous files as the base for this task:
   - Property: `top`, Value: `-.7rem`
 
 **Rendering of the hamburger on max-width: 767px**
-<img width="768" alt="task_5" src="https://user-images.githubusercontent.com/85451781/173442376-3ad6f95f-af6f-4cbd-9ce4-10b289f810d6.png">
 
+<img width="768" alt="task_5" src="https://user-images.githubusercontent.com/85451781/173442376-3ad6f95f-af6f-4cbd-9ce4-10b289f810d6.png">
 
 **Repo:**
 
@@ -332,17 +336,16 @@ Going back to the `/* menu btn */` section
 - Find the `.header .menu-icon` selector and add `display: none`; to hide the menu icon when we are on desktop mode.
 
 **Rendering on screen with max-width: 767px, when the input is unchecked the menu is not displayed**
+
 <img width="768" alt="task_6_1" src="https://user-images.githubusercontent.com/85451781/173442430-99396b19-5fe3-43ee-a1ce-8fcc55f3a0b6.png">
 
-
-
 **Rendering on screen with max-width: 767 px, when input is checked the menu block is displayed**
+
 <img width="767" alt="task_6_2" src="https://user-images.githubusercontent.com/85451781/173442448-16ec03d3-3ec8-448b-8d5e-d9054fe7cb17.png">
 
-
 **Rendering on desktop screen, menu icon is not visible**
-<img width="1369" alt="task_6_3" src="https://user-images.githubusercontent.com/85451781/173442468-a5311374-99a0-40b0-b591-6c2e77ca249f.png">
 
+<img width="1369" alt="task_6_3" src="https://user-images.githubusercontent.com/85451781/173442468-a5311374-99a0-40b0-b591-6c2e77ca249f.png">
 
 **Repo:**
 
@@ -385,8 +388,8 @@ in `08-styles.css`, at the end of the `/* Card WORK`
     - Property: `padding`, Value: `2rem 1rem 0 1rem`
 
 **Rendering on screen of max-width: 767px**
-<img width="762" alt="task_8" src="https://user-images.githubusercontent.com/85451781/173442541-45395719-11e5-453c-ad5e-93e640fe154e.png">
 
+<img width="762" alt="task_8" src="https://user-images.githubusercontent.com/85451781/173442541-45395719-11e5-453c-ad5e-93e640fe154e.png">
 
 **Repo:**
 
@@ -407,6 +410,7 @@ in `09-styles.css`, in the `/* Footer` section
     - Property: `padding-left`, Value:`2rem`
 
 **Rendering on screen of max-width: 767px**
+
 <img width="769" alt="task_9" src="https://user-images.githubusercontent.com/85451781/173442579-e36866d4-2149-490a-a235-28f515188ab0.png">
 
 **Repo:**
@@ -426,6 +430,7 @@ In `10-styles.css`, in the `/* Section HERO` section, just before the media quer
   - Property: `padding-top`, Value: `5rem`
 
 **Rendering of `header` and `section-hero` class elements**
+
 <img width="1092" alt="task_10" src="https://user-images.githubusercontent.com/85451781/173442610-f2d13458-5a4f-436d-8249-f49823618778.png">
 
 **Repo:**
@@ -784,11 +789,12 @@ Inside the `/* Comment` section, before the end of the section:
     - Property: `padding`, Value: `0`
 
 **Rendering on desktop screen**
+
 ![task_11_1](https://user-images.githubusercontent.com/85451781/173442658-d0c9c42e-1b2b-4dc2-a879-52b3f104201f.png)
 
 **Rendering on screen of max-width: 767px**
-![task_11_2](https://user-images.githubusercontent.com/85451781/173442666-fc690dc1-ede4-406a-93ea-138bf440500d.png)
 
+![task_11_2](https://user-images.githubusercontent.com/85451781/173442666-fc690dc1-ede4-406a-93ea-138bf440500d.png)
 
 **Repo:**
 

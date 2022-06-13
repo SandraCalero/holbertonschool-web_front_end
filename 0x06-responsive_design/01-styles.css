@@ -40,6 +40,7 @@ a {
 abbr[title] {
   border-bottom: none;
   text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
   text-decoration: underline dotted;
 }
 b,
@@ -296,12 +297,14 @@ a:active {
   border: var(--button-border);
   font-size: var(--button-font-size);
   color: var(--button-color);
+  -webkit-text-decoration: var(--button-text-decoration);
   text-decoration: var(--button-text-decoration);
   cursor: pointer;
 }
 
 .button:hover {
   color: var(--button-hover-color);
+  -webkit-text-decoration: var(--button-hover-text-decoration);
   text-decoration: var(--button-hover-text-decoration);
   background: var(--button-hover-background);
   transition-duration: var(--transition-duration);
@@ -591,6 +594,7 @@ ul.row {
 .card-work .card-image img {
   height: 30rem;
   width: 100%;
+  -o-object-fit: cover;
   object-fit: cover;
   vertical-align: bottom;
 }
@@ -877,6 +881,26 @@ input[type="text"]:focus,
 input[type="email"]:focus,
 textarea:focus {
   border: 0.1rem solid var(--color-grey);
+}
+
+::-webkit-input-placeholder {
+  font-style: italic;
+  font-size: var(--font-size-small);
+}
+
+::-moz-placeholder {
+  font-style: italic;
+  font-size: var(--font-size-small);
+}
+
+:-ms-input-placeholder {
+  font-style: italic;
+  font-size: var(--font-size-small);
+}
+
+::-ms-input-placeholder {
+  font-style: italic;
+  font-size: var(--font-size-small);
 }
 
 ::placeholder {

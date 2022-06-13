@@ -91,3 +91,14 @@ The following projects are performed here:
 - How to build a a comment form
 - How to build a simple search form
 - How to create usable and accessible forms
+
+## 0x06. Responsive design
+
+### Learning Objectives
+
+- Mobile-first design
+- Media-queries
+- Sizes to use for responsive web design
+- How to make a website responsive
+- The differences between responsive and adaptive design
+- CSS units that are used to make elements flexible
